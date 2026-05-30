@@ -1,5 +1,11 @@
 # nlp-internship-in-a-book
 
+<p align="center">
+  <img src="assets/banners/github_banner.png" width="100%">
+</p>
+
+
+
 # 📘 The NLP Internship
 
 ### Book 2 of 9 in the InternshipInABook™ Series
