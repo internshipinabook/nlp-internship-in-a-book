@@ -1,7 +1,7 @@
 # nlp-internship-in-a-book
 
 <p align="center">
-  <img src="assets/banners/github_banner.png" width="100%">
+  <img src="assets/assets/banners/github_banner.png" width="100%">
 </p>
 
 
